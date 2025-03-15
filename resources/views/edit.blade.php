@@ -1,0 +1,2 @@
+@include('form', ['task' => $task])
+
